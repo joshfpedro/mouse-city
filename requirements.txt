@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+pyarrow
+ipython
+ipykernel
+tqdm
+ipywidgets
+jupyter
+pyvis
+networkx
+plotly
