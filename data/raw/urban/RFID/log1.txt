@@ -1,0 +1,31 @@
+11-06-2024 13:59:20: ************ Version information ***************
+11-06-2024 13:59:21: Startup of version   : USBDATALOGGERV4.1.7
+11-06-2024 13:59:21: Reset reason         : Power on
+11-06-2024 13:59:21: Device serial number : 6E899C68
+11-06-2024 13:59:21: ************ Filesystem information ************
+11-06-2024 13:59:21: Block size           :             4096 bytes
+11-06-2024 13:59:21: Total space          :       4018110464 bytes
+11-06-2024 13:59:21: Free space           :       3384356864 bytes
+11-06-2024 13:59:21: Percentage free space:               84%
+11-06-2024 13:59:21: ************************************************
+26-07-2024 10:49:14: Safe remove button was pressed, waiting for removal
+26-07-2024 10:49:14: 
+29-10-2024 13:27:36: ************ Version information ***************
+29-10-2024 13:27:36: Startup of version   : USBDATALOGGERV4.1.7
+29-10-2024 13:27:36: Reset reason         : Power on
+29-10-2024 13:27:36: Device serial number : 6E899C68
+29-10-2024 13:27:36: ************ Filesystem information ************
+29-10-2024 13:27:36: Block size           :             4096 bytes
+29-10-2024 13:27:36: Total space          :       4018110464 bytes
+29-10-2024 13:27:36: Free space           :       3490504704 bytes
+29-10-2024 13:27:36: Percentage free space:               86%
+29-10-2024 13:27:36: ************************************************
+29-10-2024 13:27:37: Creating new file: 20241029.CSV
+30-10-2024 00:00:14: Creating new file: 20241030.CSV
+31-10-2024 00:00:09: Creating new file: 20241031.CSV
+01-11-2024 00:00:00: Creating new file: 20241101.CSV
+02-11-2024 00:00:01: Creating new file: 20241102.CSV
+03-11-2024 00:01:29: Creating new file: 20241103.CSV
+04-11-2024 00:22:32: Creating new file: 20241104.CSV
+04-11-2024 13:00:22: Safe remove button was pressed, waiting for removal
+04-11-2024 13:00:22: 

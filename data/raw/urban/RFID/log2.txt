@@ -1,0 +1,20 @@
+04-11-2024 13:00:33: ************ Version information ***************
+04-11-2024 13:00:33: Startup of version   : USBDATALOGGERV4.1.7
+04-11-2024 13:00:33: Reset reason         : Power on
+04-11-2024 13:00:33: Device serial number : 6E899C68
+04-11-2024 13:00:33: ************ Filesystem information ************
+04-11-2024 13:00:33: Block size           :            16384 bytes
+04-11-2024 13:00:33: Total space          :       3499982848 bytes
+04-11-2024 13:00:33: Free space           :       3009462272 bytes
+04-11-2024 13:00:33: Percentage free space:               93%
+04-11-2024 13:00:33: ************************************************
+04-11-2024 13:00:33: Creating new file: 20241104.CSV
+05-11-2024 00:01:36: Creating new file: 20241105.CSV
+06-11-2024 00:00:39: Creating new file: 20241106.CSV
+07-11-2024 00:00:10: Creating new file: 20241107.CSV
+08-11-2024 00:00:19: Creating new file: 20241108.CSV
+09-11-2024 00:00:00: Creating new file: 20241109.CSV
+10-11-2024 00:01:44: Creating new file: 20241110.CSV
+11-11-2024 00:00:24: Creating new file: 20241111.CSV
+11-11-2024 14:08:26: Safe remove button was pressed, waiting for removal
+11-11-2024 14:08:26: 
