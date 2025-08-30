@@ -2,6 +2,14 @@
 
 This project analyzes mouse activity and social behavior in a multi-cage environment. It includes data processing scripts, exploratory data analysis notebooks, and an interactive web application to visualize the results.
 
+## Scientific Context
+
+This project is based on a study of mouse behavior in a "rural-like city" environment. The experiment tracked a cohort of female C57BL/6J mice using RFID tags to monitor their movement and interaction within a complex, multi-cage setup. The environment included a central hub with natural soil and several interconnected cages providing nesting materials, food, and water.
+
+A key component of the study was a reward competition paradigm using a FED3 (Feeding Experimentation Device 3) device. This allowed researchers to investigate learning and motivation by requiring mice to perform specific tasks (nose pokes) to receive a sugar pellet reward. The difficulty of the task was progressively increased (e.g., from a fixed ratio of 1 to 5 pokes per reward).
+
+The primary goal of this research is to understand how environmental complexity and social dynamics influence learning, behavior, and social structures in mice. The data collected from this experiment, including activity levels, cage preferences, and social interactions, provides a rich dataset for exploring these scientific questions. The findings may have broader implications for neuroscience and behavioral biology, particularly in understanding the interplay between environment, social hierarchy, and cognitive processes.
+
 ## Project Structure
 
 - `data/`: Contains raw, intermediate, and processed data.
